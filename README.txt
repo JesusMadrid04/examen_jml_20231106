@@ -1,1 +1,2 @@
-Este es el fichero readme de jesus madrid en el examen de git
+Manual de usuario de la App. Version inicial.
+Indice
